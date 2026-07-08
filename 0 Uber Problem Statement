@@ -1,0 +1,19 @@
+## Problem Statement
+
+Despite high demand for Uber rides (6,745 trip requests), only 41.97% of trips are successfully completed, leaving nearly 58% of requests unfulfilled.  
+The unfulfilled trips are driven by two major issues:
+
+- Driver availability gaps (39.29% of requests fail due to “No Cars Available”)  
+- High cancellation rates (18.74% of requests cancelled by drivers or riders)  
+
+This supply-demand imbalance is most severe during peak hours (18:00–21:00) and at airport pickup points during night-time, where demand spikes but supply fails to scale.  
+
+On the driver side, performance inconsistency is evident:  
+- 63 drivers have completion rates below 60%  
+- Several drivers show over 50% cancellation rates  
+- Only 5 drivers achieve 100% completion and 11 drivers have zero cancellations  
+
+These operational inefficiencies result in:  
+- Poor customer experience (long wait times, unfulfilled rides)  
+- Underutilization of available drivers  
+- Revenue leakage due to unmet demand  
